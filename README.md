@@ -23,3 +23,5 @@ Note how the rows and columns each have common wires running through each LEDs a
 ![soldering](https://i.imgur.com/Jbqgy0N.png)
 This was mainly an exercise in small scale soldering. In the future, I would rather do this with flexible PCBs.
 
+##Related project
+Here is a version of the same project with only row-based control: https://github.com/akakikuumeri/LEDglasses
